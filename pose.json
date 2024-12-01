@@ -1,0 +1,36 @@
+{
+  "result": "Success",
+  "data" : [ 
+    {
+    "id": "1",
+    "name": "Mens",
+    "foldername": "Boys-pose",
+    "imageurls": [ ]
+  },
+    {
+    "id": "2",
+    "name": "Womens",
+    "foldername": "Girls-Pose",
+    "imageurls": [ ]
+  },
+    {
+    "id": "3",
+    "name": "Child",
+    "foldername": "Child-Pose",
+    "imageurls": [ ]
+  },
+    {
+    "id": "4",
+    "name": "Couples",
+    "foldername": "Couples-Pose",
+    "imageurls": [ ]
+  },
+    {
+    "id": "5",
+    "name": "Family",
+    "foldername": "Family-Pose",
+    "imageurls": []
+    }
+  ],
+  "error": null
+}
